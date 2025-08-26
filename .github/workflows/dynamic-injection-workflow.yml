@@ -1,0 +1,32 @@
+name: Dynamic inject Office Quote into README
+
+on:
+    schedule:
+        - cron: "0 * * * *" # every hour
+    workflow_dispatch: # allow manual trigger
+
+permissions:
+    contents: write
+
+jobs:
+    get-office-quotes:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v3
+            - name: Set up Python
+              uses: actions/setup-python@v5
+              with:
+                python-version: '3.x'
+            - name: Install dependencies
+              run: pip install requests
+            - name: Update README
+              run: python dynamic_injection.py
+            - name: Commit and Push changes
+              run: |
+                git config user.name "github-actions[bot]"
+                git config user.email "github-actions[bot]@users.noreply.github.com"
+                git config pull.rebase false
+                git pull
+                git add README.md
+                git commit -m "chore: [Automated] Update README with new Office quote!"
+                git push
