@@ -25,7 +25,7 @@ Want to know more about me? [Visit my portfolio.](https://example.com/)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/luutanhung)
 
 ## 📜 How about an Office quote before you go?
-<p>It’s better to be hurt by someone you know accidentally, than by a stranger on purpose.</p>
-<p>Dwight Schrute</p>
+<p>Did I stutter?</p>
+<p>Stanley Hudson</p>
 
 Check back at the top of the hour for a new quote!
