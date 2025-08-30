@@ -25,7 +25,7 @@ Want to know more about me? [Visit my portfolio.](https://example.com/)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/luutanhung)
 
 ## 📜 How about an Office quote before you go?
-<p>I’m not superstitious but I am a little stitious.</p>
-<p>Michael Scott</p>
+<p>Get a friend, loser.</p>
+<p>Dwight Schrute</p>
 
 Check back at the top of the hour for a new quote!
