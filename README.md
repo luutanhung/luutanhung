@@ -25,7 +25,7 @@ Want to know more about me? [Visit my portfolio.](https://example.com/)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/luutanhung)
 
 ## 📜 How about an Office quote before you go?
-<p>I am faster than 80 percent of all snakes.</p>
-<p>Dwight Schrute</p>
+<p>That was offensive and lame. So double offensive. This is an environment of welcoming and you should just get the hell out of here.</p>
+<p>Michael Scott</p>
 
 Check back at the top of the hour for a new quote!
