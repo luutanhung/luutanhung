@@ -25,7 +25,7 @@ Want to know more about me? [Visit my portfolio.](https://example.com/)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/luutanhung)
 
 ## 📜 How about an Office quote before you go?
-<p>Ah, humor. I have it, too.</p>
+<p>In an ideal world, I would have all 10 fingers on my left hand so my right hand could just be a fist for punching.</p>
 <p>Dwight Schrute</p>
 
 Check back at the top of the hour for a new quote!
