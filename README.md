@@ -25,7 +25,7 @@ Want to know more about me? [Visit my portfolio.](https://example.com/)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/luutanhung)
 
 ## 📜 How about an Office quote before you go?
-<p>That was offensive and lame. So double offensive. This is an environment of welcoming and you should just get the hell out of here.</p>
+<p>Abraham Lincoln once said that, ‘If you’re a racist, I will attack you with the North.’ And those are the principles that I carry with me in the workplace.</p>
 <p>Michael Scott</p>
 
 Check back at the top of the hour for a new quote!
