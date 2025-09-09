@@ -25,7 +25,7 @@ Want to know more about me? [Visit my portfolio.](https://example.com/)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/luutanhung)
 
 ## 📜 How about an Office quote before you go?
-<p>You know what they say about a car wreck, where it’s so awful you can’t look away? The Dundies are like a car wreck that you want to look away from, but you have to stare at it because your boss is making</p>
-<p>Pam Beesly</p>
+<p>Dolphins get a lot of good publicity for the drowning swimmers they push back to shore, but what you don’t hear about is the many people they push farther out to sea! Dolphins aren’t smart. They just like pushing things.</p>
+<p>Dwight Schrute</p>
 
 Check back at the top of the hour for a new quote!
