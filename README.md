@@ -25,7 +25,7 @@ Want to know more about me? [Visit my portfolio.](https://example.com/)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/luutanhung)
 
 ## 📜 How about an Office quote before you go?
-<p>Dolphins get a lot of good publicity for the drowning swimmers they push back to shore, but what you don’t hear about is the many people they push farther out to sea! Dolphins aren’t smart. They just like pushing things.</p>
-<p>Dwight Schrute</p>
+<p>I had a great summer. I got West Nile virus, lost a ton of weight. Then I went back to the lake. And I stepped on a piece of glass in the parking lot, which hurt. That got infected. Even though I peed on it.</p>
+<p>Michael Scott</p>
 
 Check back at the top of the hour for a new quote!
