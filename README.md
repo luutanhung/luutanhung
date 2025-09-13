@@ -25,7 +25,7 @@ Want to know more about me? [Visit my portfolio.](https://example.com/)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/luutanhung)
 
 ## 📜 How about an Office quote before you go?
-<p>Like right here is my favorite New York pizza joint. And I’m going to go get me a New York slice.</p>
+<p>Hi, I’m Date Mike. Nice to meet me. How do you like your eggs in the morning?</p>
 <p>Michael Scott</p>
 
 Check back at the top of the hour for a new quote!
