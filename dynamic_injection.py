@@ -1,3 +1,7 @@
+import os
+import time
+import glob
+
 import requests
 
 TEMPLATE_FILE = "README.template.md"
@@ -5,24 +9,28 @@ OUTPUT_FILE = "README.md"
 
 
 def dynamic_inject():
-    url = "https://officeapi.akashrajpurohit.com/quote/random"
+    url: str = "https://finance-quote-api.onrender.com/api/quotes/random?quote_type=inspiration&response_type=svg&theme=light"
     response = requests.get(url)
-    data = response.json()
 
-    quote = data.get("quote", "No quote found!")
-    character = data.get("character", "Unknown")
+    if response.status_code == 200:
+        for file in glob.glob("./assets/*.svg"):
+            os.remove(file)
 
-    with open(TEMPLATE_FILE, "r", encoding="utf-8") as f:
-        template = f.read()
+        filename: str = f"quote-{int(time.time())}.svg"
+        with open(f"./assets/{filename}", "w", encoding="utf-8") as f:
+            f.write(response.text)
 
-    readme_content = template.replace("{office_quote}", quote).replace(
-        "{office_character}", character
-    )
+        with open(TEMPLATE_FILE, "r", encoding="utf-8") as f:
+            template = f.read()
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write(readme_content)
+        readme_content = template.replace(
+            "{finance_quote_svg}", f"![Finance Quote](/assets/{filename})"
+        )
 
-    print("README.md updated with new quote.")
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            f.write(readme_content)
+
+        print("README.md updated with a new Finance Quote.")
 
 
 if __name__ == "__main__":

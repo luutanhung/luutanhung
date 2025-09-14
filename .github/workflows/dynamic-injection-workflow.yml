@@ -1,4 +1,4 @@
-name: Dynamic inject Blog Posts and Office Quote into README
+name: Dynamic inject a new Finance Quote into README
 
 on:
     schedule:
@@ -9,7 +9,7 @@ permissions:
     contents: write
 
 jobs:
-    get-office-quotes:
+    inject-finance-quote:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v3
@@ -27,18 +27,6 @@ jobs:
                 git config user.email "github-actions[bot]@users.noreply.github.com"
                 git config pull.rebase false
                 git pull
-                git add README.md
-                git commit -m "chore: [Automated] Update README with new Office quote!"
+                git add .
+                git commit -m "chore: [Automated] Update README with a new random Finance Quote!"
                 git push
-
-    update-readme-with-blog:
-      needs: get-office-quotes
-      name: Update this repo's README with latest blog posts
-      runs-on: ubuntu-latest
-      steps:
-        - name: Checkout
-          uses: actions/checkout@v4
-        - name: Pull in posts from hashnode
-          uses: gautamkrishnar/blog-post-workflow@master
-          with:
-            feed_list: "https://luutanhung.hashnode.dev/rss.xml"
