@@ -21,6 +21,6 @@ Want to know more about me? [Visit my portfolio.](https://example.com/)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/luutanhung)
 
 ## 📜 How about an Finance Quote before you go?
-![Finance Quote](/assets/quote-1767145194.svg)
+![Finance Quote](/assets/quote-1767232094.svg)
 
 Check back at the top of the hour for a new quote!
