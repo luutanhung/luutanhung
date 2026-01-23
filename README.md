@@ -2,4 +2,4 @@
 
 JA Renshuu
 A web-based question practice application designed to help learners prepare for the Japanese Language Proficiency Test (JLPT).
-https://ja-renshuu.top
+[Visit](https://ja-renshuu.top)
