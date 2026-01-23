@@ -10,6 +10,7 @@ permissions:
 
 jobs:
     inject-finance-quote:
+        if: ${{ false }}
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v3
